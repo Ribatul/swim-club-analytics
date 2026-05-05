@@ -1,0 +1,21 @@
+racemeetEventInstanceID,startTime,racemeetInstanceID,eventTypeID
+rmev001,17:30:00,racemeetInstance2024N1,ev01
+rmev002,18:00:00,racemeetInstance2024N1,ev02
+rmev003,18:45:00,racemeetInstance2024N1,ev03
+rmev004,19:20:00,racemeetInstance2024N1,ev04
+rmev005,20:00:00,racemeetInstance2024N1,ev05
+rmev006,5:30 PM,racemeetInstance2024N2,ev01
+rmev007,6:00 PM,racemeetInstance2024N2,ev02
+rmev008,6:45 PM,racemeetInstance2024N2,ev03
+rmev009,7:20 PM,racemeetInstance2024N2,ev04
+rmev010,8:00 PM,racemeetInstance2024N2,ev05
+rmev011,5:30 PM,racemeetInstance2024N3,ev01
+rmev012,6:00 PM,racemeetInstance2024N3,ev02
+rmev013,6:45 PM,racemeetInstance2024N3,ev03
+rmev014,7:20 PM,racemeetInstance2024N3,ev04
+rmev015,8:00 PM,racemeetInstance2024N3,ev05
+rmev016,5:30 PM,racemeetInstance2024N4,ev01
+rmev017,6:00 PM,racemeetInstance2024N4,ev02
+rmev018,6:45 PM,racemeetInstance2024N4,ev03
+rmev019,7:20 PM,racemeetInstance2024N4,ev04
+rmev020,8:00 PM,racemeetInstance2024N4,ev05

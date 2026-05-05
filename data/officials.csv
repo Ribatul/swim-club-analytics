@@ -1,0 +1,14 @@
+officialID,firstName,lastName,employeeStartDate,activeStatus
+official01,Matthew,Macgregor,2024-01-04,ACTIVE
+official02,Chandler,Bing,2023-12-20,ACTIVE
+official03,Rachel,Green,2023-11-29,ACTIVE
+official04,Jeorge,Costanza,2024-01-04,ACTIVE
+official05,Jerry,Seinfield,2023-12-20,ACTIVE
+official06,Elane,Summerfield,2023-11-29,ACTIVE
+official07,Martin,Tyler,2024-01-04,ACTIVE
+official08,Chuck,Noris,2023-12-20,ACTIVE
+official09,Ronnie,Coleman,2023-11-29,ACTIVE
+official10,Chris,Bumsfield,2024-01-04,ACTIVE
+official11,Martha,Brown,2022-12-15,INACTIVE
+official12,Jack,Guiles,2022-12-04,INACTIVE
+official13,Andrew,Holmes,2022-11-13,INACTIVE

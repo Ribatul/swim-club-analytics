@@ -1,0 +1,4 @@
+roleTypeID,roleTitle,roleDescription,numberRequired
+role01,Starter,Readies the swimmers at the beginning of the race and triggers the starters beep,1
+role02,Scrutineer,Watch that each swimmers turns and end-of-race touch are legal (placed on each end of the pool),4
+role03,Results Official,"Capture racers races, lanes and results into their laptops",2

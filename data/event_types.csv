@@ -1,0 +1,6 @@
+eventTypeID,eventDescription,strokeType,distancePerLeg,numberOfLegs,individualOrMedley
+ev01,50m freestyle,freestyle,50,1,individual
+ev02,50m breaststroke,breaststroke,50,1,individual
+ev03,50m butterfly,butterfly,50,1,individual
+ev04,50m backstroke,backstroke,50,1,individual
+ev05,4 x 50m individual medley,medley,50,4,medley
